@@ -1,0 +1,3 @@
+"main.obj" 
+TO "NODE2" 
+PRINT(".\Listings\NODE2.m51") RAMSIZE(256) 
